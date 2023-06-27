@@ -36,7 +36,7 @@ __<br>Paste a clickable link to your group board:</br>__
 <br>https://github.com/orgs/ProjectBoard0203/projects/1/views/1</br>
 <br>https://github.com/orgs/ProjectBoard0203/projects/1/views/2</br>
 __<br>Paste a clickable link to your group repository (or attach your Word doc):</br>__
-<br>https://github.com/SahithiYamasani/ProjectBoard0203/tree/main</br>
+<br>https://github.com/ProjectBoard0203/ProjectBoard0203</br>
 __<br>About how many hours did the group spend on this assignment:</br>__
 <br>Our group spent approximately 20 hours collectively on this assignment. We allocated time for planning, setting up the Kanban board on GitHub, defining user stories, assigning tasks, and regularly updating and maintaining the board throughout the project duration.</br>
 __<br>In general, how did it go:</br>__
